@@ -1,0 +1,15 @@
+builds/
+bin/
+obj/
+.vs/
+.vscode/
+
+# LabVIEW Project metadata
+*.aliases
+*.lvlps
+
+# msaccess files
+*.ldb
+
+# Visual Studio Code
+*.code-workspace
